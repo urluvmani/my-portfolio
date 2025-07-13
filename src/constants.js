@@ -234,7 +234,7 @@ export const SkillsInfo = [
         "A dynamic restaurant recommendation application that helps users discover new dining options based on their preferences. Built with React.js and external APIs, it features a sleek interface, search functionality, and detailed restaurant information including reviews and ratings.",
       image: movierecLogo,
       tags: ["React JS","Next JS","Tailwind CSS", "API", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/Movie-Recommendation-App",
+      github: "https://github.com/urluvmani",
       webapp: "https://movie-recommendation-app-jet.vercel.app/",
     },
     // {
