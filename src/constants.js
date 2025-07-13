@@ -214,7 +214,7 @@ export const SkillsInfo = [
         "A comprehensive password management application designed to securely store and manage user passwords. Built with React.js, Node.js, and MongoDB, it features a user-friendly interface, strong encryption for data security, and a responsive design for seamless access across devices.",
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-      github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
+      github: "https://github.com/urluvmani",
       webapp: "https://githubprofiledetective.netlify.app/",
     },
     {
@@ -224,7 +224,7 @@ export const SkillsInfo = [
         "A feature-rich music application that allows users to search, play, and manage their favorite songs. Built with React.js and Node.js, it provides a smooth user experience with a modern design, playlist management, and integration with external music APIs.",
       image: csprepLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
-      github: "https://github.com/codingmastr/CSPrep",
+      github: "https://github.com/urluvmani",
       webapp: "https://csprep.netlify.app/",
     },
     {
