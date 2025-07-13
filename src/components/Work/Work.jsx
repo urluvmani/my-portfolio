@@ -17,7 +17,7 @@ const Work = () => {
       id="work"
       className="py-24 pb-24 px-[12vw] md:px-[7vw] lg:px-[20vw] font-sans relative"
     >
-      {/* Section Title */}
+      Section Title
       <div className="text-center mb-16">
         <h2 className="text-4xl font-bold text-white">PROJECTS</h2>
         <div className="w-32 h-1 bg-purple-500 mx-auto mt-4"></div>
@@ -32,7 +32,7 @@ const Work = () => {
         {projects.map((project) => (
           <div
             key={project.id}
-            onClick={() => handleOpenModal(project)}
+            // onClick={() => handleOpenModal(project)}
             className="border border-white bg-gray-900 backdrop-blur-md rounded-2xl shadow-2xl overflow-hidden cursor-pointer hover:shadow-purple-500/50 hover:-translate-y-2 transition-transform duration-300"
           >
             <div className="p-4">
@@ -70,7 +70,7 @@ const Work = () => {
           <div className="bg-gray-900 rounded-xl shadow-2xl lg:w-full w-[90%] max-w-3xl overflow-hidden relative">
             <div className="flex justify-end p-4">
               <button
-                onClick={handleCloseModal}
+                // onClick={handleCloseModal}
                 className="text-white text-3xl font-bold hover:text-purple-500"
               >
                 &times;
