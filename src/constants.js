@@ -46,7 +46,7 @@ import vpsLogo from './assets/education_logo/vps_logo.png';
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/password.png';
 import csprepLogo from './assets/work_logo/song.jpeg';
-import movierecLogo from './assets/work_logo/chai.jpg';
+import movierecLogo from './assets/work_logo/linktree.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
 import webverLogo from './assets/work_logo/web_dig.png';
@@ -202,7 +202,7 @@ export const SkillsInfo = [
       date: "Apr 2015 - March 2016",
       grade: "87.5%",
       desc: "I completed my class 10 education from Vatsalya Public School, Govardhan, under the CBSE board, where I studied Science with Computer.",
-      degree: "CBSE(X), Science with Computer Application",
+      degree: "#",
     },
   ];
   
@@ -215,7 +215,7 @@ export const SkillsInfo = [
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
       github: "https://github.com/urluvmani",
-      webapp: "https://githubprofiledetective.netlify.app/",
+      webapp: "#",
     },
     {
       id: 1,
@@ -225,17 +225,17 @@ export const SkillsInfo = [
       image: csprepLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/urluvmani",
-      webapp: "https://csprep.netlify.app/",
+      webapp: "#",
     },
     {
       id: 2,
-      title: "Restaurant App",
+      title: "LinkTree- to make ure link Page",
       description:
-        "A dynamic restaurant recommendation application that helps users discover new dining options based on their preferences. Built with React.js and external APIs, it features a sleek interface, search functionality, and detailed restaurant information including reviews and ratings.",
+        "this web is used to make ure linktree page , means you can now give your all link as you want to someone by sharing only one link created by this website. ",
       image: movierecLogo,
       tags: ["React JS","Next JS","Tailwind CSS", "API", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/urluvmani",
-      webapp: "https://movie-recommendation-app-jet.vercel.app/",
+      webapp: "https://link-tree-seven-sable.vercel.app/",
     },
     // {
     //   id: 3,
