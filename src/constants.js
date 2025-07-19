@@ -44,7 +44,7 @@ import bsaLogo from './assets/education_logo/bsa_logo.png';
 import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
-import githubdetLogo from './assets/work_logo/password.png';
+import githubdetLogo from './assets/work_logo/bitlink.png';
 import csprepLogo from './assets/work_logo/song.jpeg';
 import movierecLogo from './assets/work_logo/linktree.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
@@ -209,13 +209,13 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "PassOp",
+      title: "BitLink",
       description:
-        "A comprehensive password management application designed to securely store and manage user passwords. Built with React.js, Node.js, and MongoDB, it features a user-friendly interface, strong encryption for data security, and a responsive design for seamless access across devices.",
+        "It can generate short links and you can use anywhere generated link instead of old long link",
       image: githubdetLogo,
       tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
       github: "https://github.com/urluvmani",
-      webapp: "#",
+      webapp: "https://bitlinks-by-mani.vercel.app/",
     },
     {
       id: 1,
