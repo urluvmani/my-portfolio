@@ -45,7 +45,7 @@ import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/bitlink.png';
-import csprepLogo from './assets/work_logo/song.jpeg';
+import csprepLogo from './assets/work_logo/ecommerce.png';
 import movierecLogo from './assets/work_logo/linktree.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/npm.png';
@@ -219,13 +219,13 @@ export const SkillsInfo = [
     },
     {
       id: 1,
-      title: "Music App",
+      title: "E-Commerce Application",
       description:
-        "A feature-rich music application that allows users to search, play, and manage their favorite songs. Built with React.js and Node.js, it provides a smooth user experience with a modern design, playlist management, and integration with external music APIs.",
-      image: csprepLogo,
+        "Fully featured e-commerce web application where users can browse products, add them to the cart, and make purchases securely.",
+         image: csprepLogo,
       tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/urluvmani",
-      webapp: "#",
+      webapp: "https://www.taskeena.com/",
     },
     {
       id: 2,

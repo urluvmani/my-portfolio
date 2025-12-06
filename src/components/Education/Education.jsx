@@ -19,8 +19,7 @@ const Education = () => {
       {/* tell that i have get 87% marks in matric and 447 marks out of 545 in inter part one and part 2 result is coming soon */}
       <div className="text-center mb-8">
         <p className="text-gray-400 mt-4 text-lg font-semibold">
-          I have achieved 87% marks in Matriculation and scored 447 out of 545 in Inter Part One. The result for Part Two is coming soon!
-        </p>
+         I scored 87% in Matriculation and achieved 947/1200 marks in Intermediate. I am currently pursuing a BS in Software Engineering at Virtual University (VU).    </p>
       </div>
       <LearningJourney />
 
